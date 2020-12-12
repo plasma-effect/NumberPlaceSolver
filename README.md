@@ -1,0 +1,2 @@
+# NumberPlaceSolver
+ナンプレのソルバーを作ってみるやつ
